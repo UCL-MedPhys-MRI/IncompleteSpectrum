@@ -1,2 +1,2 @@
 # IncompleteSpectrum
-Repository containing code relating to the incomplete spectrum reconstruction paper
+Repository containing code relating to the incomplete spectrum reconstruction paper. The paper can be found [here](https://www.frontiersin.org/articles/10.3389/fnins.2023.1130524/full). The packages used are forked versions of the QSM.jl package by Christian Kames, found [here](https://github.com/pfuchs/QSM.jl), and ImageQualityIndexes.jl forked [here](https://github.com/JuliaImages/ImageQualityIndexes.jl). These are required to run the julia code presented in this repository.
